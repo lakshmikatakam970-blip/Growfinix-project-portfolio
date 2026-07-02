@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository built for the Growfinix Web Development Internship program! This is a clean, modern, and fully responsive developer portfolio designed using a glassmorphic user interface framework.
 
 ## 🚀 Live Demo
-🔗 **[Live Project Link](Insert_Your_GitHub_Pages_Link_Here)**
+🔗 **[Live Project Link](https://lakshmikatakam970-blip.github.io/Growfinix-project-portfolio/)**
 
 ## 💻 Tech Stack Used
 * **Frontend:** HTML5, CSS3, JavaScript
